@@ -1,0 +1,10 @@
+C:\Users\Akaky\Desktop\tele_labs-main\Lb_1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Akaky\Desktop\tele_labs-main\Lb_1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Akaky\Desktop\tele_labs-main\Lb_1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Akaky\Desktop\tele_labs-main\Lb_1\WindowsFormsApp1\obj\Debug\Lb1.csproj.AssemblyReference.cache
+C:\Users\Akaky\Desktop\tele_labs-main\Lb_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Akaky\Desktop\tele_labs-main\Lb_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Akaky\Desktop\tele_labs-main\Lb_1\WindowsFormsApp1\obj\Debug\Lb1.csproj.GenerateResource.cache
+C:\Users\Akaky\Desktop\tele_labs-main\Lb_1\WindowsFormsApp1\obj\Debug\Lb1.csproj.CoreCompileInputs.cache
+C:\Users\Akaky\Desktop\tele_labs-main\Lb_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Akaky\Desktop\tele_labs-main\Lb_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
